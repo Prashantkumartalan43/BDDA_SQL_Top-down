@@ -1,4 +1,4 @@
-# BDDA_SQL_Top-down
+# MORE Retail SQL Database using Top-down approach
 
 ### Data Description
 This dataset is designed to provide comprehensive insights into the behavior of Amazon customers. It encompasses customer demographics, user interactions, and reviews, focusing on understanding shopping preferences, decision-making patterns, and the overall experience within the Amazon ecosystem. This data aims to assist researchers and analysts in identifying consumer trends, improving marketing strategies, and enhancing the customer experience on Amazon.
